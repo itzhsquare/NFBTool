@@ -1,0 +1,11 @@
+*{
+    background-color: #212121;
+    color: white;
+}
+div{ 
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
